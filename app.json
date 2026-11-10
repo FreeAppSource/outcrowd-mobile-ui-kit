@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Outcrowd Mobile UI Kit",
+    "slug": "outcrowd-services",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0284C7"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "outcrowdservices"
+  }
+}

@@ -1,0 +1,33 @@
+export const colors = {
+  primary: '#20C3AF',
+  primaryDark: '#04B28A',
+  primarySoft: '#E6FAF7',
+  accent: '#28D9C3',
+  coral: '#FFB19D',
+  coralSoft: '#FFF2EE',
+  heading: '#525464',
+  dark: '#323440',
+  text: '#525464',
+  textSecondary: '#848497',
+  textMuted: '#B0B0C3',
+  background: '#FFFFFF',
+  surface: '#F7F7FB',
+  cardBg: '#FFFFFF',
+  inputBg: '#F7F7F7',
+  border: '#E2E2EF',
+  borderLight: '#F0F0F7',
+  white: '#FFFFFF',
+  black: '#000000',
+  success: '#20C3AF',
+  danger: '#FF6B6B',
+  socialFacebook: '#1777F2',
+  socialTwitter: '#1DA1F2',
+  socialLinkedIn: '#0078B5',
+};
+
+export const typography = {
+  fontHeading: '700',
+  fontBold: '800',
+  fontRegular: '400',
+  fontMedium: '600',
+};
