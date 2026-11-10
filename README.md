@@ -1,5 +1,7 @@
 # Outcrowd Mobile UI Kit
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Outcrowd** (credits below)
+
 A mobile application built with **React Native**, **Expo SDK 58+**, and **Expo Router**, based on the famous Outcrowd Design Kit (`mobile-ui-kit-outcrowd-community.sketch`).
 
 ## 🚀 Features & Completed Artboards
@@ -45,6 +47,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/outcrowd-mobile-ui-kit> |
+
+<!-- developer:end -->
 
 ---
 
