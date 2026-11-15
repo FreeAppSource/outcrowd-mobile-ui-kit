@@ -10,10 +10,10 @@ Outcrowd Mobile UI Kit includes complete implementations of all **17 Sketch artb
 
 | # | Screen | Sketch Artboard ID | Route | Description |
 |---|---|---|---|---|
-| 1 | **Onboarding 1** | `75FC1148` | `src/app/index.jsx` | "Proven specialists" — We check each specialist before he starts work. |
-| 2 | **Onboarding 2** | `FF90682A` | `src/app/index.jsx` | "Honest ratings" — We carefully check each specialist and put honest ratings. |
-| 3 | **Onboarding 3** | `01B4324C` | `src/app/index.jsx` | "Insured orders" — We insure each order for the amount of $500. |
-| 4 | **Onboarding 4** | `EB641DD2` | `src/app/index.jsx` | "Create order" — It's easy, just click on the plus. |
+| 1 | **Onboarding 1** | `75FC1148` | `src/app/index.jsx` | "Proven specialists" - We check each specialist before he starts work. |
+| 2 | **Onboarding 2** | `FF90682A` | `src/app/index.jsx` | "Honest ratings" - We carefully check each specialist and put honest ratings. |
+| 3 | **Onboarding 3** | `01B4324C` | `src/app/index.jsx` | "Insured orders" - We insure each order for the amount of $500. |
+| 4 | **Onboarding 4** | `EB641DD2` | `src/app/index.jsx` | "Create order" - It's easy, just click on the plus. |
 | 5 | **Sign In** | `34CB15C5` | `src/app/login.jsx` | Username, Password, Forgot Password, Login CTA, and Social Logins (Facebook, Twitter, LinkedIn). |
 | 6 | **Sign Up** | `7C605230` | `src/app/signup.jsx` | Email, Password, Confirm Password, Sign Up CTA, and Social Providers. |
 | 7 | **Categories** | `D0B4373D` | `src/app/(tabs)/index.jsx` | Search by category, Courier, Furniture, Cleaning, Equipment, Interior, Construction. |
